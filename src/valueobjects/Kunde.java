@@ -1,4 +1,4 @@
-package shop;
+package valueobjects;
 
 public class Kunde {
 
